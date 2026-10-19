@@ -3,7 +3,7 @@ import time
 import cv2
 from MpManager import MpManager
 
-VIDEO_PATH = "Snatch.MOV"
+VIDEO_PATH = "videos/Snatch.MOV"
 
 class VideoScanner:
     def __init__(self):
